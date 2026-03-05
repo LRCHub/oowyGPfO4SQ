@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Spotlight",
+  "base_artist": "IO",
+  "createdAt": "2026-03-05T16:27:26.870578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight (It's Caught Me in Its Spotlight)",
+      "artist": "Thin Lizzy",
+      "has_synced": true,
+      "path": "select/01_Dancing_in_the_Moonlight_(It's_Caught_Me_in_Its_Spotlight)_Thin_Lizzy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spotlight",
+      "artist": "Marshmello feat. Lil Peep",
+      "has_synced": true,
+      "path": "select/02_Spotlight_Marshmello_feat._Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spotlight",
+      "artist": "Marshmello & Lil Peep",
+      "has_synced": true,
+      "path": "select/03_Spotlight_Marshmello_&_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spotlight",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/04_Spotlight_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spotlight",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/05_Spotlight_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spotlight (Live)",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/06_Spotlight_(Live)_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Busy Beaver Lunch Break [CODENAME_SPOTLIGHT SEARCH]",
+      "artist": "Fire-Toolz",
+      "has_synced": false,
+      "path": "select/07_Busy_Beaver_Lunch_Break_[CODENAME_SPOTLIGHT_SEARCH]_Fire-Toolz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spotlight",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/08_Spotlight_Madonna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spotlight",
+      "artist": "Sixpence None the Richer",
+      "has_synced": true,
+      "path": "select/09_Spotlight_Sixpence_None_the_Richer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spotlight",
+      "artist": "Sixpence None the Richer",
+      "has_synced": true,
+      "path": "select/10_Spotlight_Sixpence_None_the_Richer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spotlight",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/11_Spotlight_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tiger in a Spotlight",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": true,
+      "path": "select/12_Tiger_in_a_Spotlight_Emerson,_Lake_&_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tiger in a Spotlight (Live - Now Tour '97/ '98) [2017 - Remaster]",
+      "artist": "Emerson, Lake & Palmer",
+      "has_synced": false,
+      "path": "select/13_Tiger_in_a_Spotlight_(Live_-_Now_Tour_'97__'98)_[2017_-_Remaster]_Emerson,_Lake_&_Palmer.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Not the Spotlight",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/14_It's_Not_the_Spotlight_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's Not the Spotlight",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/15_It's_Not_the_Spotlight_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dancing In The Moonlight (It's Caught Me In A Spotlight) - BBC Session 01/08/1977",
+      "artist": "Thin Lizzy",
+      "has_synced": false,
+      "path": "select/16_Dancing_In_The_Moonlight_(It's_Caught_Me_In_A_Spotlight)_-_BBC_Session_01_08_197_Thin_Lizzy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spotlight",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_01_Spotlight_I_O.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Spotlight",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_02_Spotlight_I_O.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Spotlight (feat. Kohjiya & Tete) [Remix]",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_03_Spotlight_(feat._Kohjiya_&_Tete)_[Remix]_I_O.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Spotlight (feat. Kohjiya & Tete) [Remix]",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_04_Spotlight_(feat._Kohjiya_&_Tete)_[Remix]_I_O.txt"
+    }
+  ]
+}
