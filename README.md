@@ -1,0 +1,80 @@
+# IO – Spotlight
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.16] Spotlight, shine bright
+[00:33.29] Tonight, spotlight
+[00:42.29] 
+[00:41.42] No one knows you better than you know yourself
+[00:46.08] Do the thing you want don't wait for someone else
+[00:50.18] Life is just a party that's all you need to know
+[00:53.96] It's your turn to shine baby let yourself go
+[01:15.96] 
+[00:58.63] Everybody is a star
+[01:01.83] Everyone is special in their own way
+[01:06.44] So you set your goals high and go far
+[01:09.97] Don't put off tomorrow what you can do today
+[01:31.97] 
+[01:14.55] Spotlight, open up your eyes and see
+[01:18.29] Spotlight, shining out for you and me
+[01:22.08] Spotlight, this world is yours and mine
+[01:26.43] Spotlight, this is your chance to shine
+[01:45.93] 
+[01:30.96] Don't stand in the corner waiting for the chance
+[01:34.80] Make your own music start your own dance
+[01:39.17] When you feel the rhythm, I'll be by your side
+[01:43.08] Now you have the power baby love is on your side
+[02:07.08] 
+[01:47.41] Everybody wants to shine
+[01:50.77] Don't stand in the sideline, step into the light
+[01:55.10] But it's got to come from inside
+[01:58.65] Listen to your heart and step into the
+[02:17.65] 
+[02:03.24] Spotlight, open up your eyes and see
+[02:06.95] Spotlight, shining out for you and me
+[02:10.67] Spotlight, this world is yours and mine
+[02:15.07] Spotlight, this is your chance to shine
+[02:34.57] 
+[02:20.84] Don't be afraid to fall
+[02:25.57] I'll hear you when you call
+[02:28.17] And I'll be right here by your side
+[02:33.88] Don't be afraid to try
+[02:44.88] 
+[02:36.03] Spotlight
+[02:40.53] 
+[02:45.63] Everybody is a star
+[02:58.58] It's got to come from the heart
+[03:10.16] Spotlight, this world is yours and mine
+[03:20.42] Spotlight, this is your chance to shine
+[03:39.92] 
+[03:26.07] Don't be afraid to fall
+[03:30.62] I'll hear you when you call
+[03:33.06] And I'll be right here by your side
+[03:38.40] Don't be afraid to try
+[03:49.40] 
+[03:41.17] Everybody wants to shine
+[03:43.33] Don't stand in the sideline, step into the light
+[03:45.06] But it's got to come from inside
+[03:47.26] Listen to heart and step into the light
+[04:06.76] 
+[03:49.31] Don't be afraid to fall
+[03:50.89] I'll hear you when you call
+[03:52.03] And I'll be right here by your side
+[03:52.82] Don't be afraid to try
+[04:03.82] 
+[03:53.77] Spotlight, open up your eyes and see
+[03:55.22] Spotlight, shining out for you and me
+[03:57.63] Spotlight, this world is yours and mine
+[04:00.34] Spotlight, this is your chance to shine
+[04:19.84] 
+[04:03.13] Everybody is a star, you know who you are
+[04:06.19] This is your chance to shine
+[04:08.09] It's got to come from the heart, do it right from the start
+[04:11.09] And step into the light
+[04:22.59] 
+[04:13.56] Everybody is a star, you know who you are
+[04:16.26] This is your chance to shine
+[04:18.53] It's got to come from the heart, do it right from the start
+[04:21.34] And step into the light
+```
